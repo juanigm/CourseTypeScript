@@ -9,8 +9,3 @@ function add(num1: number, num2: number) {
 button.addEventListener("click", function() {
   console.log(add(+input1.value, +input2.value));
 });
-
-
-//Adding comment
-
-//Adding another comment
