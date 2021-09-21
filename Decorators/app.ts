@@ -104,3 +104,4 @@ const p = new Printer();
 
 const button = document.querySelector('button')!;
 button.addEventListener('click', p.showMessage.bind(p));
+//Comments
